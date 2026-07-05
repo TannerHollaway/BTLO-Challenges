@@ -4,4 +4,4 @@
 
 [Dridex Infection - PCAP Analysis](https://github.com/TannerHollaway/PCAP-Analysis)
 
-[Powershell downloader analysi](https://github.com/TannerHollaway/PowerShell-Downloader-Analysis)
+[Powershell downloader analysis](https://github.com/TannerHollaway/PowerShell-Downloader-Analysis)
