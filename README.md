@@ -7,3 +7,5 @@
 [Powershell downloader analysis](https://github.com/TannerHollaway/PowerShell-Downloader-Analysis)
 
 [Log Analysis Sysmon](https://github.com/TannerHollaway/Log-Analysis-Sysmon)
+
+[audit.log log analysis](https://github.com/TannerHollaway/audit.log-log-analysis)
